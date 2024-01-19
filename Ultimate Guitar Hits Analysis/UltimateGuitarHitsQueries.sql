@@ -56,12 +56,12 @@ WHERE capo = ' 7th fre'
 -- DATA EXPLORATION
 ----------------------------------------------------------------
 
--- • Who are the most popular artists?
--- • Who are the highest rated artists?
--- • How does difficulty affect number of hits?
--- • What difficulty has the highest average rating?
--- • How does capo position affect rating?
--- • What capo position has the highest average rating?
+-- â€¢ Who are the most popular artists?
+-- â€¢ Who are the highest rated artists?
+-- â€¢ How does difficulty affect number of hits?
+-- â€¢ What difficulty has the highest average rating?
+-- â€¢ How does capo position affect rating?
+-- â€¢ What capo position has the highest average rating?
 
 
 SELECT *
